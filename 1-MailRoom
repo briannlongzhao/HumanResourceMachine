@@ -1,0 +1,13 @@
+Drag commands into this area to build a program.
+Your program should tell your worker to grab each thing from the INBOX, and drop it into the OUTBOX.
+
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    INBOX   
+    OUTBOX  
+    INBOX   
+    OUTBOX  
+    INBOX   
+    OUTBOX  
+
+
