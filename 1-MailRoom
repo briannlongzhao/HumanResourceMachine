@@ -1,3 +1,5 @@
+Year 1 - Mail Room
+
 Drag commands into this area to build a program.
 Your program should tell your worker to grab each thing from the INBOX, and drop it into the OUTBOX.
 
@@ -9,5 +11,3 @@ Your program should tell your worker to grab each thing from the INBOX, and drop
     OUTBOX  
     INBOX   
     OUTBOX  
-
-

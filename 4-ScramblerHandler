@@ -1,0 +1,18 @@
+Year 4 - Scrambler Handler
+
+Grab the first two things from the INBOX and drop them into the OUTBOX in the reverse order.
+Repeat unitl the INBOX is empty.
+You got a new command!
+Feel free to COPYTO wherever you like on the carpet.
+It will be cleaned later.
+
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    INBOX   
+    OUTBOX  
+    COPYFROM 0
+    OUTBOX  
+    JUMP     a
